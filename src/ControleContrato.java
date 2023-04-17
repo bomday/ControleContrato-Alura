@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class ControleContrato {
     public static void main(String[] args) {
         //CONTROLE DE CONTA BANCÁRIA
         Scanner dados = new Scanner(System.in);
